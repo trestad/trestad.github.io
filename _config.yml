@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ang Lv"
-description              : "Ang Lv's Homepage"
+description              : "I am sorry that there is no sci-fi about LLM agents or hallucination, popular surveys, or verbose prompt engineering. It's just something I am currently interested in."
 repository               : "trestad/trestad.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  semanticscholar    : "https://www.semanticscholar.org/author/Ang-Lv/66261602"
+  googlescholar    : "https://www.semanticscholar.org/author/Ang-Lv/66261602"
   email            : "anglv@ruc.edu.cn"
   researchgate     :
   uri              :
