@@ -23,10 +23,11 @@ His researches focus on generation tasks in NLP.
 He lacks any sci-fi knowledge about LLM agents 🤣 and is unlikely to try prompt engineering 🥱, unless someone can provide him with a clear definition of the terms "hallucination," "planning," and "reasoning" as used in their NLP paper. There's just something he is or was interested in.
 
 # 🔥 News
-- *2023.09*: &nbsp; One paper submitted to Arxiv: [GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework](https://arxiv.org/pdf/2305.10841.pdf)
-- *2023.11*: &nbsp; One paper submitted to Arxiv: [Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse](https://arxiv.org/abs/2311.07468)
-- *2023.12*: &nbsp; One paper submitted to Arxiv: [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455)
-- *2024.01*: &nbsp; One paper submitted to Arxiv: [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://arxiv.org/abs/2401.06469)
+- *2023.09*: &nbsp; Arxiv submission: [GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework, Ang Lv et al.](https://arxiv.org/pdf/2305.10841.pdf)
+- *2023.11*: &nbsp; One paper submitted to Arxiv: [Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, Ang Lv et al.](https://arxiv.org/abs/2311.07468)
+- *2022.08*: &nbsp; One paper submitted to Arxiv: [Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation, Ang Lv et al.](https://arxiv.org/abs/2208.05697)
+- *2023.12*: &nbsp; One paper submitted to Arxiv: [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use, Yuhan Chen* and Ang Lv* et al.](https://arxiv.org/abs/2312.04455)
+- *2024.01*: &nbsp; One paper submitted to Arxiv: [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning, Kaiyi Zhang* and Ang Lv* et al.](https://arxiv.org/abs/2401.06469)
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/gps.png' alt="sym" width="100%"></div></div>
@@ -49,7 +50,7 @@ He lacks any sci-fi knowledge about LLM agents 🤣 and is unlikely to try promp
 <div class='paper-box-text' markdown="1">
 
 [Target-Side Input Augmentation for Sequence to Sequence Generation](https://openreview.net/forum?id=pz1euXohm4H) \\
-Shufang Xie, **Ang Lv**(co-first author), Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
+Shufang Xie*, **Ang Lv***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 </div>
 </div>
 
