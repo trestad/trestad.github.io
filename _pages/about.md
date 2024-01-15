@@ -27,7 +27,7 @@ His researches focus on generation tasks in NLP.
 - *2024.01*: &nbsp; One paper submitted to Arxiv: [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://arxiv.org/abs/2401.06469)
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/fabind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/gps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations](https://aclanthology.org/2023.acl-long.70/) \\
@@ -35,7 +35,7 @@ His researches focus on generation tasks in NLP.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 (oral)</div><img src='images/fabind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 (oral)</div><img src='images/dual-dialog.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation](https://aclanthology.org/2023.acl-long.407/) \\
@@ -43,7 +43,7 @@ His researches focus on generation tasks in NLP.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/fabind.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/target.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Target-Side Input Augmentation for Sequence to Sequence Generation](https://openreview.net/forum?id=pz1euXohm4H) \\
