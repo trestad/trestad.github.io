@@ -20,6 +20,8 @@ redirect_from:
 Ang Lv (吕昂) is currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/) in [Renmin University of China (RUC)](https://www.ruc.edu.cn/), supervised by [Prof. Rui Yan](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=20200243&ln=cn). 
 His researches focus on generation tasks in NLP. 
 
+He lacks any sci-fi knowledge about LLM agents 🤣 and is unlikely to try prompt engineering 🥱, unless someone can provide him with a clear definition of the terms "hallucination," "planning," and "reasoning" as used in their NLP paper. There's just something he is or was interested in.
+
 # 🔥 News
 - *2023.09*: &nbsp; One paper submitted to Arxiv: [GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework](https://arxiv.org/pdf/2305.10841.pdf)
 - *2023.11*: &nbsp; One paper submitted to Arxiv: [Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse](https://arxiv.org/abs/2311.07468)
