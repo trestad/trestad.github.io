@@ -18,9 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Ang Lv (吕昂) is currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in [Renmin University of China (RUC)](https://en.ruc.edu.cn), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). 
-His researches focus on generation tasks in NLP. 
 
-He lacks any sci-fi knowledge about LLM agents 🤣 and is unlikely to try prompt engineering 🥱, unless someone can provide him with a clear definition of the terms "hallucination," "planning," and "reasoning" as used in their NLP paper. There's just something he is or was interested in.
+My research primarily centers around NLP generation tasks. Starting in 2023, my focus has shifted towards the mechanistics interpretability. I've undertaken various endeavors, including efforts to [analyse the phenomenon known as the "reversal curse"](https://arxiv.org/abs/2311.07468) and investigating [the potential constraints posed by position embeddings on LLM's context awareness](https://arxiv.org/abs/2312.04455). Looking ahead, I am committed to further delving into this area.
 
 # 🔥 News
 - *2023.11*: &nbsp; One paper submitted to Arxiv: [Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse](https://arxiv.org/abs/2311.07468), Ang Lv et al.
