@@ -58,5 +58,5 @@ Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 
 # 💻 Internships
 - *2022.09 - 2023.02*, Alibaba Damo Academy, Hangzhou, China.
-- *2023.02 - 2020.07*, [Microsoft Research, Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/)
+- *2023.02 - 2020.07*, [Microsoft Research, Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
 - *2023.07 - 2023.02*, Alibaba Damo Academy, Beijing, China.
