@@ -57,8 +57,13 @@ Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 - *2023.09* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才)
 
 # 💻 Internships
-- *2022.09 - 2023.02*, Alibaba Damo Academy, Hangzhou, China.
-- *2023.02 - 2020.07*, [Microsoft Research, Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
-- *2023.07 - 2023.02*, Alibaba Damo Academy, Beijing, China.
+- *2022.09 - 2023.03*, Alibaba Damo Academy, Hangzhou, China.
+- *2023.03 - 2023.09*, [Microsoft Research, Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
+- *2023.09 - 2023.03*, Alibaba Damo Academy, Beijing, China.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9G50dP-8e1Wxhw49gow7CA80ubPFtJf9DPENLmpD8Ms&cl=ffffff&w=a"></script>
+
+<div id="mapContainer" style="width: 400px; height: 300px;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=9G50dP-8e1Wxhw49gow7CA80ubPFtJf9DPENLmpD8Ms&cl=ffffff&w=a"></script>
+</div>
+
+
