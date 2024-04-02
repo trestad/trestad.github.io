@@ -19,14 +19,16 @@ redirect_from:
 
 Ang Lv (吕昂) is currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in [Renmin University of China (RUC)](https://en.ruc.edu.cn), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). 
 
-My research primarily centers around NLP generation tasks. Starting in 2023, my focus has shifted towards the mechanistics interpretability. I've undertaken various endeavors, including efforts to [analyse the phenomenon known as the "reversal curse"](https://arxiv.org/abs/2311.07468) and investigating [the potential constraints posed by position embeddings on LLM's context awareness](https://arxiv.org/abs/2312.04455). Looking ahead, I am committed to further delving into this area.
+My research primarily focuses on NLP generation tasks. Starting in 2023, I shifted my focus towards mechanistic interpretability. Through a deep understanding of language models, I am dedicated to creating more powerful foundation models. 
 
-# 🔥 News
-- *2024.01*: &nbsp; One paper submitted to Arxiv: [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://arxiv.org/abs/2401.06469), Kaiyi Zhang* and Ang Lv* et al.
-- *2023.12*: &nbsp; One paper submitted to Arxiv: [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455), Yuhan Chen* and Ang Lv* et al.
-- *2023.11*: &nbsp; One paper submitted to Arxiv: [Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse](https://arxiv.org/abs/2311.07468), Ang Lv et al.
-- *2023.09*: &nbsp; One paper submitted to Arxiv: [GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework](https://arxiv.org/pdf/2305.10841.pdf), Ang Lv et al.
-- *2022.08*: &nbsp; One paper submitted to Arxiv: [Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation](https://arxiv.org/abs/2208.05697), Ang Lv et al.
+# 🔥 News Within a Year
+
+- *2024.03*: I thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
+
+- *2023.12*: I found some [drawbacks in RoPE](https://arxiv.org/abs/2312.04455), which limit the LLMs' context awareness to some specific positions. My coauthor and I mitigated this issue and enhanced a 7B model to outperform GPT-4 in a tool-use benchmark!
+
+- *2023.11*: I found that using the next-token prediction training paradigm leads to insufficient training data utility, and the model cannot fully grasp knowledge in the training data, leading to the ["reversal curse."](https://arxiv.org/abs/2311.07468)
+
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/gps.png' alt="sym" width="100%"></div></div>
