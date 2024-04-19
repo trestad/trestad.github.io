@@ -48,6 +48,14 @@ Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 (Art Track)</div><img src='images/roc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation](https://arxiv.org/abs/2208.05697) \\
+Ang Lv, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.09* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才)
 
