@@ -52,7 +52,7 @@ Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 <div class='paper-box-text' markdown="1">
 
 [Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation](https://arxiv.org/abs/2208.05697) \\
-Ang Lv, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan
+**Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan
 </div>
 </div>
 
