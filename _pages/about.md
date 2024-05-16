@@ -16,14 +16,29 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 # 🔥 News Within a Year
 
-- *2024.03*: I thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
+- *2024.05* Two papers are accepted by ACL 2024 main conference: [link1](https://arxiv.org/abs/2312.04455),[link2](https://openreview.net/profile?id=~Ang_Lv1). One paper is accepted by ACL 2024 findings: [link3](http://arxiv.org/abs/2401.06469).
 
-- *2023.12*: I found some [drawbacks in RoPE](https://arxiv.org/abs/2312.04455), which limit the LLMs' context awareness to some specific positions. My coauthor and I mitigated this issue and enhanced a 7B model to outperform GPT-4 in a tool-use benchmark!
+- *2024.03*: I thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
 
 - *2023.11*: I found that using the next-token prediction training paradigm leads to insufficient training data utility, and the model cannot fully grasp knowledge in the training data, leading to the ["reversal curse."](https://arxiv.org/abs/2311.07468)
 
 
-# 📝 Publications
+# 📝 Publications (First Author and First Co-author)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 main</div><img src='images/ab1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455) \\
+Yuhan Chen*, **Ang Lv***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 findings</div><img src='images/batchicl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://arxiv.org/abs/2401.06469) \\
+Kaiyi Zhang*, **Ang Lv***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/gps.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -55,6 +70,11 @@ Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan
 </div>
 </div>
+
+# 📝 Other Publications
+
+- Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, [ACL 2024 main conference](https://arxiv.org/abs/2403.02178), Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li
+
 
 # 🎖 Honors and Awards
 - *2023.09* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才)
