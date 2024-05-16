@@ -31,7 +31,7 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 <div class='paper-box-text' markdown="1">
 
 [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455) \\
-Yuhan Chen*, **Ang Lv***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan
+Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan
 </div>
 </div>
 
@@ -39,7 +39,7 @@ Yuhan Chen*, **Ang Lv***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yong
 <div class='paper-box-text' markdown="1">
 
 [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://arxiv.org/abs/2401.06469) \\
-Kaiyi Zhang*, **Ang Lv***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
+Kaiyi Zhang\*, **Ang Lv\***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
 </div>
 </div>
 
