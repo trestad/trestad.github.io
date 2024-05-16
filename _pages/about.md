@@ -31,12 +31,14 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455) \\
 Yuhan Chen*, **Ang Lv***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 findings</div><img src='images/batchicl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://arxiv.org/abs/2401.06469) \\
 Kaiyi Zhang*, **Ang Lv***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/gps.png' alt="sym" width="100%"></div></div>
@@ -68,6 +70,7 @@ Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 
 [Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation](https://arxiv.org/abs/2208.05697) \\
 **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan
+</div>
 </div>
 
 # 📝 Other Publications
