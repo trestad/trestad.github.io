@@ -16,6 +16,8 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 # 🔥 News Within a Year
 
+- *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by Dr. [Ruobing Xie](https://ruobingxie.github.io/).
+
 - *2024.05* Two papers are accepted by ACL 2024 main conference: [link1](https://arxiv.org/abs/2312.04455),[link2](https://openreview.net/profile?id=~Ang_Lv1). One paper is accepted by ACL 2024 findings: [link3](http://arxiv.org/abs/2401.06469).
 
 - *2024.03*: I thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
@@ -25,7 +27,7 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 # 📝 Publications (First Author and First Co-author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 main</div><img src='images/ab1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ab1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455) \\
@@ -80,6 +82,7 @@ Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
 
 # 🎖 Honors and Awards
 - *2023.09* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才)
+- *2024.05* CCF-Tencent Rhino-Bird Elite Talent Program
 
 # 💻 Internships
 - *2022.09 - 2023.03*, Alibaba Damo Academy, Hangzhou, China.
