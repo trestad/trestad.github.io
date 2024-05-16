@@ -12,13 +12,13 @@ redirect_from:
 
 Ang Lv (吕昂) is currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in [Renmin University of China (RUC)](https://en.ruc.edu.cn), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). 
 
-My research primarily focuses on NLP generation tasks. Starting in 2023, I shifted my focus towards mechanistic interpretability. Through a deep understanding of language models, I am dedicated to creating more powerful foundation models. 
+My research primarily focuses on NLP generation tasks. Starting in 2023, I shifted my focus towards long-context ability of LLMs and mechanistic interpretability. I am dedicated to creating more powerful foundation models. 
 
 # 🔥 News Within a Year
 
 - *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by Dr. [Ruobing Xie](https://ruobingxie.github.io/).
 
-- *2024.05* Two papers are accepted by ACL 2024 main conference: [link1](https://arxiv.org/abs/2312.04455),[link2](https://openreview.net/profile?id=~Ang_Lv1). One paper is accepted by ACL 2024 findings: [link3](http://arxiv.org/abs/2401.06469).
+- *2024.05* Two papers are accepted by ACL 2024 main conference: [link1](https://arxiv.org/abs/2312.04455),[link2](https://arxiv.org/abs/2403.02178). One paper is accepted by ACL 2024 findings: [link3](http://arxiv.org/abs/2401.06469).
 
 - *2024.03*: I thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
 
