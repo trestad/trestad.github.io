@@ -48,8 +48,8 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 
 # Honors and Awards
-- *2023.09* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才)
-- *2024.05* CCF-Tencent Rhino-Bird Elite Talent Program（CCF-腾讯犀牛鸟精英人才计划）
+- Doctoral Scholarship for Elite Innovative Talents of Renmin University of China, 2023 (中国人民大学拔尖创新人才)
+- CCF-Tencent Rhino-Bird Elite Talent Program, 2024（CCF-腾讯犀牛鸟精英人才计划）
 
 # Internships
 - *2022.09 - 2023.03*, Alibaba Damo Academy, Hangzhou.
