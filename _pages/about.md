@@ -42,7 +42,7 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 # Other Publications
 
-Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2403.02178)
+- Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2403.02178)
 
 
 # Honors and Awards
