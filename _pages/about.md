@@ -18,11 +18,13 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 - *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by Dr. [Ruobing Xie](https://ruobingxie.github.io/).
 
-- *2024.05* Two papers are accepted by ACL 2024 main conference: [link1](https://arxiv.org/abs/2312.04455),[link2](https://arxiv.org/abs/2403.02178). One paper is accepted by ACL 2024 findings: [link3](http://arxiv.org/abs/2401.06469).
+- *2024.05* Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
 
-- *2024.03*: I thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
+- *2024.04* One paper is accepted by IJCAI 2024.
 
-- *2023.11*: I found that using the next-token prediction training paradigm leads to insufficient training data utility, and the model cannot fully grasp knowledge in the training data, leading to the ["reversal curse."](https://arxiv.org/abs/2311.07468)
+- *2024.03*: We thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
+
+- *2023.11*: We found that using the next-token prediction training paradigm leads to insufficient training data utility, and the model cannot fully grasp knowledge in the training data, leading to the ["reversal curse."](https://arxiv.org/abs/2311.07468)
 
 
 # Publications (First Author and First Co-author)
