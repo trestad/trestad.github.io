@@ -27,11 +27,13 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 # 📝 Publications (First Author and First Co-author)
 
+Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics,* [ACL 2024](https://arxiv.org/abs/2312.04455)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ab1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455) \\
-Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan
+Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. 
 </div>
 </div>
 
