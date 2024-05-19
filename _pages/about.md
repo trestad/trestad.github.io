@@ -48,11 +48,11 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 
 # Preprint Papers
 
-- **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
+- **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
 - **Ang Lv**, Kaiyi Zhang, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Arxiv.* [Link](https://arxiv.org/abs/2311.07468)
 
-- **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
+- **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
 
 # Honors and Awards
 - Doctoral Scholarship for Elite Innovative Talents of Renmin University of China, 2023 (中国人民大学拔尖创新人才)
