@@ -14,7 +14,7 @@ Ang Lv (吕昂) is currently a second year Ph.D. student at [Gaoling School of A
 
 My research primarily focuses on NLP generation tasks. Starting in 2023, I shifted my focus towards long-context ability of LLMs and mechanistic interpretability. I am dedicated to creating more powerful foundation models. 
 
-# 🔥 News Within a Year
+# News Within a Year
 
 - *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by Dr. [Ruobing Xie](https://ruobingxie.github.io/).
 
@@ -25,68 +25,31 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 - *2023.11*: I found that using the next-token prediction training paradigm leads to insufficient training data utility, and the model cannot fully grasp knowledge in the training data, leading to the ["reversal curse."](https://arxiv.org/abs/2311.07468)
 
 
-# 📝 Publications (First Author and First Co-author)
+# Publications (First Author and First Co-author)
 
-Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics,* [ACL 2024](https://arxiv.org/abs/2312.04455)
+Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2312.04455)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ab1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Kaiyi Zhang\*, **Ang Lv\***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2401.06469)
 
-[Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://arxiv.org/abs/2312.04455) \\
-Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. 
-</div>
-</div>
+**Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation, *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://arxiv.org/abs/2208.05697) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 findings</div><img src='images/batchicl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Ang Lv**, Jinpeng Li, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
 
-[Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://arxiv.org/abs/2401.06469) \\
-Kaiyi Zhang\*, **Ang Lv\***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan
-</div>
-</div>
+**Ang Lv**, Jinpeng Li, Shufang Xie, Rui Yan. Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 oral).* [Link](https://aclanthology.org/2023.acl-long.407/)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/gps.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations](https://aclanthology.org/2023.acl-long.70/) \\
-**Ang Lv**, Jinpeng Li, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023 (oral)</div><img src='images/dual-dialog.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation](https://aclanthology.org/2023.acl-long.407/) \\
-**Ang Lv**, Jinpeng Li, Shufang Xie, Rui Yan
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/target.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Target-Side Input Augmentation for Sequence to Sequence Generation](https://openreview.net/forum?id=pz1euXohm4H) \\
-Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024 (Art Track)</div><img src='images/roc.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation](https://arxiv.org/abs/2208.05697) \\
-**Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan
-</div>
-</div>
-
-# 📝 Other Publications
-
-- Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, [ACL 2024 main conference](https://arxiv.org/abs/2403.02178), Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li
+Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan. Target-Side Input Augmentation for Sequence to Sequence Generation. *The 10th International Conference on Learning Representations (ICLR'22).* [Link](https://openreview.net/forum?id=pz1euXohm4H)
 
 
-# 🎖 Honors and Awards
+# Other Publications
+
+Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2403.02178)
+
+
+# Honors and Awards
 - *2023.09* Doctoral Scholarship for Elite Innovative Talents of Renmin University of China (中国人民大学拔尖创新人才)
 - *2024.05* CCF-Tencent Rhino-Bird Elite Talent Program（CCF-腾讯犀牛鸟精英人才计划）
 
-# 💻 Internships
+# Internships
 - *2022.09 - 2023.03*, Alibaba Damo Academy, Hangzhou.
 - *2023.03 - 2023.09*, [Microsoft Research, Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
 - *2023.09 - 2024.05*, Alibaba Damo Academy, Beijing.
