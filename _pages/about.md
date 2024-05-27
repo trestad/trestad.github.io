@@ -55,7 +55,7 @@ My research primarily focuses on NLP generation tasks. Starting in 2023, I shift
 - **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
 
 # Honors and Awards
-- Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin Univertity of
+- Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
 China, 2023 (中国人民大学拔尖创新人才)
 - CCF-Tencent Rhino-Bird Elite Talent Program, 2024（CCF-腾讯犀牛鸟精英人才计划）
 
