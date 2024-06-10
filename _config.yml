@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ang Lv"
+  name             : "Ang Lv (吕 昂)"
   avatar           : "images/profile.png"
   bio              : "Renmin University of China"
   location         : "Montmartre"
-  zhihu         : "https://www.zhihu.com/people/lvangup"
+  # zhihu         : "https://www.zhihu.com/people/lvangup"
   pubmed           : 
   semanticscholar    : "https://www.semanticscholar.org/author/Ang-Lv/66261602"
   email            : "anglv@ruc.edu.cn"
@@ -41,14 +41,14 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   dblp             :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
