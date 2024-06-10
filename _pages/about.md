@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ang Lv (吕昂) is currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in [Renmin University of China (RUC)](https://en.ruc.edu.cn), supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). 
+I am currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China, supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). 
 
 My research primarily focuses on NLP generation tasks. Starting in 2023, I shifted my focus towards long-context ability of LLMs and mechanistic interpretability. I am dedicated to creating more powerful foundation models. 
 
@@ -61,7 +61,7 @@ China, 2023 (中国人民大学拔尖创新人才)
 
 # Internships
 - *2022.09 - 2023.03*, Alibaba Damo Academy, Hangzhou.
-- *2023.03 - 2023.09*, [Microsoft Research, Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://www.microsoft.com/en-us/research/people/xuta/). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
+- *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
 - *2023.09 - 2024.05*, Alibaba Damo Academy, Beijing.
 - *2024.05 - now*, Tencent, Beijing.
 
