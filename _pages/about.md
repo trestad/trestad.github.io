@@ -10,9 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China, supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). 
-
-My research primarily focuses on NLP generation tasks. Starting in 2023, I shifted my focus towards long-context ability of LLMs and mechanistic interpretability. I am dedicated to creating more powerful foundation models. 
+I am currently a second year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China, supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). I focus on long-context ability and mechanistic interpretability of LLMs. I am dedicated to creating more powerful foundation models.
 
 # News Within a Year
 
