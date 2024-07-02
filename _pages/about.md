@@ -52,6 +52,9 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 - **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
 
+- Hongzhan Lin\*, **Ang Lv\***, Yuhan Chen, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. Mixture of In-Context Experts
+Enhance LLMs’ Long Context Awareness, *Arxiv.* [Link](https://arxiv.org/pdf/2406.19598)
+
 # Honors and Awards
 - Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
 China, 2023 (中国人民大学拔尖创新人才)
