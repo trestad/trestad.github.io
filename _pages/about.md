@@ -55,6 +55,8 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 - Hongzhan Lin\*, **Ang Lv\***, Yuhan Chen, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. Mixture of In-Context Experts
 Enhance LLMs’ Long Context Awareness, *Arxiv.* [Link](https://arxiv.org/pdf/2406.19598)
 
+- Zhuocheng Gong\*, **Ang Lv\***, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules, *Arxiv.* [Link](https://arxiv.org/pdf/2407.06677)
+
 # Honors and Awards
 - Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
 China, 2023 (中国人民大学拔尖创新人才)
