@@ -14,7 +14,7 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # News Within a Year
 
-- *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by Dr. [Ruobing Xie](https://ruobingxie.github.io/).
+- *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
 - *2024.05* Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
 
