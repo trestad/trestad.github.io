@@ -14,6 +14,8 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # News Within a Year
 
+- *2024.09* We propose that the [development of context copying capacities in LLMs is a special grokking.](todo)
+
 - *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
 - *2024.05* Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
@@ -45,6 +47,8 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 - Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2403.02178)
 
 # Preprint Papers
+
+- **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. Language Models ``Grok'' to Copy, *Arxiv.* [Link](todo)
 
 - **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
