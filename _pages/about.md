@@ -48,7 +48,7 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # Preprint Papers
 
-- **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. Language Models ``Grok'' to Copy, *Arxiv.* [Link](todo)
+- **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. Language Models "Grok" to Copy, *Arxiv.* [Link](todo)
 
 - **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
