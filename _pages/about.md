@@ -28,9 +28,9 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # Publications (First Author and First Co-author)
 
-- **Ang Lv**, Kaiyi Zhang, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP' 24)* [Link](https://arxiv.org/abs/2311.07468)
+- **Ang Lv**, Kaiyi Zhang, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP' 24).* [Link](https://arxiv.org/abs/2311.07468)
 
-- Zhuocheng Gong\*, **Ang Lv\***, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules, *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP' 24)* [Link](https://arxiv.org/pdf/2407.06677)
+- Zhuocheng Gong\*, **Ang Lv\***, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules, *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP' 24).* [Link](https://arxiv.org/pdf/2407.06677)
 
 - Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2312.04455)
 
