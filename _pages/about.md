@@ -15,7 +15,7 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 # News Within a Year
 
 - *2024.09* Two papers are accepted by EMNLP 2024 main conference.
-- 
+
 - *2024.09* We propose that the [development of context copying capacities in LLMs is a special grokking.](https://arxiv.org/pdf/2409.09281)
 
 - *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
