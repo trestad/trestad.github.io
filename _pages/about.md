@@ -14,15 +14,15 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # News Within a Year
 
-- *2024.09* Two papers are accepted by EMNLP 2024 main conference.
+- *2024.09*: Two papers are accepted by EMNLP 2024 main conference.
 
-- *2024.09* We propose that the [development of context copying capacities in LLMs is a special grokking.](https://arxiv.org/pdf/2409.09281)
+- *2024.09*: We propose that the [development of context copying capacities in LLMs is a special grokking.](https://arxiv.org/pdf/2409.09281)
 
-- *2024.05* I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
+- *2024.05*: I am successfully selected by 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
-- *2024.05* Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
+- *2024.05*: Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
 
-- *2024.04* One paper is accepted by IJCAI 2024.
+- *2024.04*: One paper is accepted by IJCAI 2024.
 
 - *2024.03*: We thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
 
@@ -34,7 +34,7 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 - Yuhan Chen\*, **Ang Lv\***, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2312.04455)
 
-- Kaiyi Zhang\*, **Ang Lv\***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://arxiv.org/abs/2401.06469)
+- Kaiyi Zhang\*, **Ang Lv\***, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL '24 Findings).* [Link](https://arxiv.org/abs/2401.06469)
 
 - **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation, *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://arxiv.org/abs/2208.05697) 
 
