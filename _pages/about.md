@@ -28,7 +28,7 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # Publications (First Author and First Co-author)
 
-- **Ang Lv**, Kaiyi Zhang, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP' 24).* [Link](https://arxiv.org/abs/2311.07468)
+- **Ang Lv\***, **Kaiyi Zhang\***, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP' 24).* [Link](https://arxiv.org/abs/2311.07468)
 
 - Zhuocheng Gong\*, **Ang Lv\***, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP' 24).* [Link](https://arxiv.org/pdf/2407.06677)
 
