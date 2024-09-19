@@ -26,9 +26,6 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 - *2024.03*: We thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
 
-- *2023.11*: We found that using the next-token prediction training paradigm leads to insufficient training data utility, and the model cannot fully grasp knowledge in the training data, leading to the ["reversal curse."](https://arxiv.org/abs/2311.07468)
-
-
 # Publications (First Author and First Co-author)
 
 - **Ang Lv**, Kaiyi Zhang, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *EMNLP' 24* [Link](https://arxiv.org/abs/2311.07468)
