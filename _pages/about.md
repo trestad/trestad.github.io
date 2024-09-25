@@ -14,6 +14,8 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # News Within a Year
 
+- *2024.09*: One paper is accepted by NeurIPS 2024.
+
 - *2024.09*: Two papers are accepted by EMNLP 2024 main conference.
 
 - *2024.09*: We propose that the [development of context copying capacities in LLMs is a special grokking.](https://arxiv.org/pdf/2409.09281)
@@ -27,6 +29,9 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 - *2024.03*: We thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
 
 # Publications (First Author and First Co-author)
+
+- Hongzhan Lin\*, **Ang Lv\***, Yuhan Chen, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. Mixture of In-Context Experts
+Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).* [Link](https://arxiv.org/pdf/2406.19598)
 
 - **Ang Lv**, Kaiyi Zhang, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/abs/2311.07468)
 
@@ -56,9 +61,6 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 - **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
 - **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
-
-- Hongzhan Lin\*, **Ang Lv\***, Yuhan Chen, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. Mixture of In-Context Experts
-Enhance LLMs’ Long Context Awareness, *Arxiv.* [Link](https://arxiv.org/pdf/2406.19598)
 
 # Honors and Awards
 - Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
