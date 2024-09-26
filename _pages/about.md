@@ -30,10 +30,10 @@ I am currently a second year Ph.D. student at [Gaoling School of Artificial Inte
 
 # Publications (First Author and First Co-author)
 
-- Hongzhan Lin\*, **Ang Lv\***, Yuhan Chen, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. Mixture of In-Context Experts
-Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).* [Link](https://arxiv.org/pdf/2406.19598)
+- **Ang Lv\***, Hongzhan Lin\*, Yuhan Chen\*, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. Mixture of In-Context Experts
+Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).*
 
-- **Ang Lv**, Kaiyi Zhang, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/abs/2311.07468)
+- **Ang Lv**, Kaiyi Zhang\*, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. Are We Falling in a Middle-Intelligence Trap? An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/abs/2311.07468)
 
 - Zhuocheng Gong\*, **Ang Lv\***, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/pdf/2407.06677)
 
@@ -43,9 +43,9 @@ Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neur
 
 - **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation, *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://arxiv.org/abs/2208.05697) 
 
-- **Ang Lv**, Jinpeng Li, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
+- **Ang Lv**, Jinpeng Li\*, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
 
-- **Ang Lv**, Jinpeng Li, Shufang Xie, Rui Yan. Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 oral).* [Link](https://aclanthology.org/2023.acl-long.407/)
+- **Ang Lv**, Jinpeng Li\*, Shufang Xie, Rui Yan. Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 oral).* [Link](https://aclanthology.org/2023.acl-long.407/)
 
 - Shufang Xie\*, **Ang Lv\***, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan. Target-Side Input Augmentation for Sequence to Sequence Generation. *The 10th International Conference on Learning Representations (ICLR'22).* [Link](https://openreview.net/forum?id=pz1euXohm4H)
 
@@ -58,7 +58,7 @@ Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neur
 
 - **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. Language Models "Grok" to Copy, *Arxiv.* [Link](https://arxiv.org/pdf/2409.09281)
 
-- **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
+- **Ang Lv**, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
 - **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
 
