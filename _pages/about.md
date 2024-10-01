@@ -56,6 +56,8 @@ Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neur
 
 # Preprint Papers
 
+- **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. PEAR: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *Arxiv.* [Link](https://arxiv.org/pdf/2409.19745)
+
 - **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. Language Models "Grok" to Copy, *Arxiv.* [Link](https://arxiv.org/pdf/2409.09281)
 
 - **Ang Lv\***, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
