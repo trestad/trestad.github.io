@@ -64,6 +64,8 @@ Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neur
 
 - **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
 
+- Yuhan Chen, **Ang Lv**, Jian Luan, Bin Wang, Wei Liu. HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation, *Arxiv.* [Link](https://arxiv.org/abs/2410.21216)
+
 # Honors and Awards
 - Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
 China, 2023 (中国人民大学拔尖创新人才)
