@@ -14,6 +14,8 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # News Within a Year
 
+- 2024.11*: We propose [a novel attention mechanism that enables negative attention weights for enhanced expressiveness](https://arxiv.org/pdf/2411.07176).
+
 - *2024.11*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
 - *2024.09*: One paper is accepted by NeurIPS 2024.
@@ -32,41 +34,42 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # Publications (First Author and First Co-author)
 
-- **Ang Lv\***, Kaiyi Zhang\*, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. An Analysis and Mitigation of the Reversal Curse, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/abs/2311.07468)
+- An Analysis and Mitigation of the Reversal Curse. **Ang Lv\***, Kaiyi Zhang\*, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/abs/2311.07468)
 
-- **Ang Lv\***, Zhuocheng Gong\*, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules, *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/pdf/2407.06677)
+- Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules. **Ang Lv\***, Zhuocheng Gong\*, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/pdf/2407.06677)
 
-- **Ang Lv\***, Hongzhan Lin\*, Yuhan Chen\*, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. Mixture of In-Context Experts
-Enhance LLMs’ Long Context Awareness, *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).*
+- Mixture of In-Context Experts Enhance LLMs’ Long Context Awareness. **Ang Lv\***, Hongzhan Lin\*, Yuhan Chen\*, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).*
 
-- **Ang Lv\***, Yuhan Chen\*, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://aclanthology.org/2024.acl-long.601/)
+- Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. **Ang Lv\***, Yuhan Chen\*, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://aclanthology.org/2024.acl-long.601/)
 
-- **Ang Lv\***, Kaiyi Zhang\*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL '24 Findings).* [Link](https://aclanthology.org/2024.findings-acl.638/)
+- Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. **Ang Lv\***, Kaiyi Zhang\*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL '24 Findings).* [Link](https://aclanthology.org/2024.findings-acl.638/)
 
-- **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation, *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://www.ijcai.org/proceedings/2024/0853.pdf) 
+- Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation. **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://www.ijcai.org/proceedings/2024/0853.pdf) 
 
-- **Ang Lv\***, Jinpeng Li\*, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
+- DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. **Ang Lv\***, Jinpeng Li\*, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
 
-- **Ang Lv\***, Jinpeng Li\*, Shufang Xie, Rui Yan. Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 oral).* [Link](https://aclanthology.org/2023.acl-long.407/)
+- Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation. **Ang Lv\***, Jinpeng Li\*, Shufang Xie, Rui Yan. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 oral).* [Link](https://aclanthology.org/2023.acl-long.407/)
 
-- **Ang Lv\***, Shufang Xie\*, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan. Target-Side Input Augmentation for Sequence to Sequence Generation. *The 10th International Conference on Learning Representations (ICLR'22).* [Link](https://openreview.net/forum?id=pz1euXohm4H)
+- Target-Side Input Augmentation for Sequence to Sequence Generation. **Ang Lv\***, Shufang Xie\*, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan. *The 10th International Conference on Learning Representations (ICLR'22).* [Link](https://openreview.net/forum?id=pz1euXohm4H)
 
 
 # Other Publications
 
-- Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models, *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://aclanthology.org/2024.acl-long.320/)
+- Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models. Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://aclanthology.org/2024.acl-long.320/)
 
 # Preprint Papers
 
-- **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead, *Arxiv.* [Link](https://arxiv.org/pdf/2409.19745)
+- More Expressive Attention with Negative Weights. **Ang Lv**, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2411.07176)
 
-- **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. Language Models "Grok" to Copy, *Arxiv.* [Link](https://arxiv.org/pdf/2409.09281)
+- *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *Arxiv.* [Link](https://arxiv.org/pdf/2409.19745)
 
-- **Ang Lv\***, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models, *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
+- Language Models "Grok" to Copy. **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. *Arxiv.* [Link](https://arxiv.org/pdf/2409.09281)
 
-- **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework, *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
+- Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models. **Ang Lv\***, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
-- Yuhan Chen, **Ang Lv**, Jian Luan, Bin Wang, Wei Liu. HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation, *Arxiv.* [Link](https://arxiv.org/abs/2410.21216)
+- GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework. **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
+
+- HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation. Yuhan Chen, **Ang Lv**, Jian Luan, Bin Wang, Wei Liu. *Arxiv.* [Link](https://arxiv.org/abs/2410.21216)
 
 # Honors and Awards
 - CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
