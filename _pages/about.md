@@ -34,9 +34,9 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # Publications (First Author and First Co-author)
 
-- An Analysis and Mitigation of the Reversal Curse. **Ang Lv\***, Kaiyi Zhang\*, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/abs/2311.07468)
+- An Analysis and Mitigation of the Reversal Curse. **Ang Lv\***, Kaiyi Zhang\*, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://aclanthology.org/2024.emnlp-main.754/)
 
-- Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules. **Ang Lv\***, Zhuocheng Gong\*, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://arxiv.org/pdf/2407.06677)
+- Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules. **Ang Lv\***, Zhuocheng Gong\*, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://aclanthology.org/2024.emnlp-main.1164/)
 
 - Mixture of In-Context Experts Enhance LLMs’ Long Context Awareness. **Ang Lv\***, Hongzhan Lin\*, Yuhan Chen\*, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).*
 
@@ -44,7 +44,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. **Ang Lv\***, Kaiyi Zhang\*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL '24 Findings).* [Link](https://aclanthology.org/2024.findings-acl.638/)
 
-- Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation. **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://www.ijcai.org/proceedings/2024/0853.pdf) 
+- Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation. **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://www.ijcai.org/proceedings/2024/0853) 
 
 - DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. **Ang Lv\***, Jinpeng Li\*, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
 
