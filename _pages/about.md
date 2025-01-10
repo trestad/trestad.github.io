@@ -69,10 +69,6 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework. **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
 
-- HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation. Yuhan Chen, Ang Lv, Jian Luan, Bin Wang, Wei Liu. *Arxiv.* [Link](https://arxiv.org/abs/2410.21216)
-
-- More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives. Xiaoqing Zhang, Ang Lv, Yuhan Liu, Flood Sung, Wei Liu, Shuo Shang, Xiuying Chen, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2501.04070)
-
 # Honors and Awards
 - CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
 - CCF-Tencent Rhino-Bird Elite Talent Program, 2024, 1 of 50 selected individuals nationwide（中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人）
