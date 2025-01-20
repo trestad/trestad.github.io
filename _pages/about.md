@@ -14,6 +14,8 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # News Within a Year
 
+- *2025.01*: One paper is accepted by WWW 2025 oral.
+
 - *2024.11*: We propose [a novel attention mechanism that enables negative attention weights for enhanced expressiveness](https://arxiv.org/pdf/2411.07176).
 
 - *2024.11*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
