@@ -20,7 +20,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - *2025.01*: One paper is accepted by NAACL 2025 main (short paper).
 
-- *2024.11*: We propose [a novel attention mechanism that enables negative attention weights for enhanced expressiveness](https://arxiv.org/pdf/2411.07176).
+- *2024.11*: We propose [Cog Attention](https://arxiv.org/pdf/2411.07176) that enables negative attention weights for enhanced expressiveness.
 
 - *2024.11*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
@@ -36,7 +36,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - *2024.04*: One paper is accepted by IJCAI 2024.
 
-- *2024.03*: We thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521), and I hope you will find the exciting findings engaging!
+- *2024.03*: We thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521).
 
 # Publications (First Author and First Co-author)
 
