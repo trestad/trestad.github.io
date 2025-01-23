@@ -14,6 +14,8 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # News Within a Year
 
+- *2025.01*: We propose [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074), a new MoE paradigm.
+
 - *2025.01*: One paper is accepted by WWW 2025 oral.
 
 - *2025.01*: One paper is accepted by NAACL 2025 main (short paper).
@@ -40,7 +42,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *The Web Conference (WWW'25 **oral**)* [Link](https://arxiv.org/pdf/2409.19745)
 
-- Language Models "Grok" to Copy. **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. *Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'25).* [Link](https://arxiv.org/pdf/2409.09281)
+- Language Models "Grok" to Copy. **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. *Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'25 short).* [Link](https://arxiv.org/pdf/2409.09281)
 
 - An Analysis and Mitigation of the Reversal Curse. **Ang Lv\***, Kaiyi Zhang\*, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://aclanthology.org/2024.emnlp-main.754/)
 
@@ -67,7 +69,9 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # Preprint Papers
 
-- More Expressive Attention with Negative Weights. **Ang Lv**, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2411.07176)
+- Autonomy-of-Experts Models. **Ang Lv**, Ruobing Xie, Yining Qian, Songhao Wu, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2501.13074)
+
+- More Expressive Attention with Negative Weights. **Ang Lv**, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2411.07176)
 
 - Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models. **Ang Lv\***, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
