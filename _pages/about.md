@@ -75,8 +75,6 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models. **Ang Lv\***, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
-- GETMusic: Generating Any Music Tracks with a Unified Representation and Diffusion Framework. **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2305.10841)
-
 # Honors and Awards
 - CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
 - CCF-Tencent Rhino-Bird Elite Talent Program, 2024, 1 of 50 selected individuals nationwide（中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人）
