@@ -34,10 +34,6 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - *2024.05*: Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
 
-- *2024.04*: One paper is accepted by IJCAI 2024.
-
-- *2024.03*: We thoroughly studied the [mechanisms of factual recall in Transformer-based language models](https://arxiv.org/abs/2403.19521).
-
 # Publications (First Author and First Co-author)
 
 - *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *The Web Conference (WWW'25 **oral**)* [Link](https://arxiv.org/pdf/2409.19745)
