@@ -34,7 +34,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - *2024.05*: Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
 
-# Publications (First Author and First Co-author)
+# Publications (First Author)
 
 - *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *The Web Conference (WWW'25 **oral**)* [Link](https://arxiv.org/pdf/2409.19745)
 
