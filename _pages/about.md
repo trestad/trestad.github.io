@@ -71,7 +71,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models. **Ang Lv\***, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
-- PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. Songhao Wu*, **Ang Lv\***, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. *Arxiv* [link](https://www.arxiv.org/pdf/2502.00527)
+- PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. Songhao Wu\*, **Ang Lv\***, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. *Arxiv* [link](https://www.arxiv.org/pdf/2502.00527)
 
 # Honors and Awards
 - CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
