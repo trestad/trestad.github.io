@@ -14,27 +14,15 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # News Within a Year
 
-- *2025.01*: We propose [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074), a new MoE paradigm.
-
 - *2025.01*: One paper is accepted by WWW 2025 oral.
-
-- *2025.01*: One paper is accepted by NAACL 2025 main (short paper).
-
-- *2024.11*: We propose [Cog Attention](https://arxiv.org/pdf/2411.07176) that enables negative attention weights for enhanced expressiveness.
 
 - *2024.11*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
-- *2024.09*: One paper is accepted by NeurIPS 2024.
-
-- *2024.09*: Two papers are accepted by EMNLP 2024 main conference.
-
-- *2024.09*: We propose that the [development of context copying capacities in LLMs is a special grokking.](https://arxiv.org/pdf/2409.09281)
-
 - *2024.05*: I am awarded the 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
-- *2024.05*: Two papers are accepted by ACL 2024 main conference. One paper is accepted by ACL 2024 findings.
-
 # Publications (First Author)
+
+- Autonomy-of-Experts Models. **Ang Lv**, Ruobing Xie, Yining Qian, Songhao Wu, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. [Link](https://arxiv.org/pdf/2501.13074)
 
 - *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *The Web Conference (WWW'25 **oral**)* [Link](https://arxiv.org/pdf/2409.19745)
 
@@ -50,6 +38,8 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. **Ang Lv\***, Kaiyi Zhang\*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL '24 Findings).* [Link](https://aclanthology.org/2024.findings-acl.638/)
 
+- GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework. **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan, *The 34th International Joint Conference on Artificial Intelligence (IJCAI'25).*
+
 - Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation. **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://www.ijcai.org/proceedings/2024/0853) 
 
 - DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. **Ang Lv\***, Jinpeng Li\*, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
@@ -64,8 +54,6 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 - Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models. Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://aclanthology.org/2024.acl-long.320/)
 
 # Preprint Papers
-
-- Autonomy-of-Experts Models. **Ang Lv**, Ruobing Xie, Yining Qian, Songhao Wu, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2501.13074)
 
 - More Expressive Attention with Negative Weights. **Ang Lv**, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2411.07176)
 
