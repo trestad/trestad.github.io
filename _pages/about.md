@@ -14,6 +14,8 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # News Within a Year
 
+- *2025.05*: [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074) is accepted by ICML 2025.
+
 - *2025.01*: One paper is accepted by WWW 2025 oral.
 
 - *2024.11*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
@@ -22,7 +24,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # Publications (First Author)
 
-- Autonomy-of-Experts Models. **Ang Lv**, Ruobing Xie, Yining Qian, Songhao Wu, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. [Link](https://arxiv.org/pdf/2501.13074)
+- Autonomy-of-Experts Models. **Ang Lv**, Ruobing Xie, Yining Qian, Songhao Wu, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Proceedings of the 40th International Conference on Machine Learning (ICML'25)* [Link](https://arxiv.org/pdf/2501.13074)
 
 - *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *The Web Conference (WWW'25 **oral**)* [Link](https://arxiv.org/pdf/2409.19745)
 
