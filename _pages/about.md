@@ -70,7 +70,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 China, 2023 (中国人民大学拔尖创新人才)
 
 # Academic Services
-- Conference Reviewer: EMNLP, ACL (ARR Area Chair), ICLR, WWW, KDD
+- Conference Reviewer: EMNLP & ACL (ARR Area Chair), ICML, ICLR, WWW, KDD
 - Journal Reviewer: ACM TIST
 
 # Internships
