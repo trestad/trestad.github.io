@@ -59,7 +59,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - More Expressive Attention with Negative Weights. **Ang Lv**, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2411.07176)
 
-- Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models. **Ang Lv\***, Yuhan Chen\*, Kaiyi Zhang\*, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
+- Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models. **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
 
 - PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. Songhao Wu\*, **Ang Lv\***, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. *Arxiv* [link](https://www.arxiv.org/pdf/2502.00527)
 
