@@ -14,13 +14,13 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # News Within a Year
 
-- *2025.05*: [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074) is accepted by ICML 2025.
+- *May 2025*: [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074) is accepted by ICML 2025.
 
-- *2025.01*: One paper is accepted by WWW 2025 oral.
+- *Nov 2024*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
-- *2024.11*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
+- *Sept 2024 - Jan 2025*: 6 accepted papers at EMNLP, NeurIPS, NAACL, IJCAI, and WWW 2025 oral.
 
-- *2024.05*: I am awarded the 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
+- *May 2024*: I am awarded the 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
 # Publications (First Author)
 
