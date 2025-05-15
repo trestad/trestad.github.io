@@ -50,11 +50,6 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - Target-Side Input Augmentation for Sequence to Sequence Generation. **Ang Lv\***, Shufang Xie\*, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan. *The 10th International Conference on Learning Representations (ICLR'22).* [Link](https://openreview.net/forum?id=pz1euXohm4H)
 
-
-# Other Publications
-
-- Masked Thought: Simply Masking Partial Reasoning Steps Can Improve Mathematical Reasoning Learning of Language Models. Changyu Chen, Xiting Wang, Ting-En Lin, **Ang Lv**, Yuchuan Wu, Xin Gao, Ji-Rong Wen, Rui Yan, Yongbin Li. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://aclanthology.org/2024.acl-long.320/)
-
 # Preprint Papers
 
 - More Expressive Attention with Negative Weights. **Ang Lv**, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2411.07176)
