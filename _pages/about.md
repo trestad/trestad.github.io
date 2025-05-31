@@ -24,39 +24,41 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # Publications (First Author)
 
-- Autonomy-of-Experts Models. **Ang Lv**, Ruobing Xie, Yining Qian, Songhao Wu, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Proceedings of the 42nd International Conference on Machine Learning (ICML'25)* [Link](https://arxiv.org/pdf/2501.13074)
+- [Autonomy-of-Experts Models](https://openreview.net/forum?id=8BIDrYWCeg). Ang Lv et al. *Proceedings of the 42nd International Conference on Machine Learning* (ICML'25)
 
-- *PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead. **Ang Lv\***, Tao Tan\*, Yining Qian\*, Hongzhan Lin, Songhao Wu, Yongbo Wang, Feng Wang, Jingtong Wu, Xin Lu, Rui Yan. *The Web Conference (WWW'25 **oral**)* [Link](https://arxiv.org/pdf/2409.19745)
+- [*PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead](https://dl.acm.org/doi/10.1145/3696410.3714795). Ang Lv\*, Tao Tan\*, and Yining Qian\* et al. *The Web Conference (WWW'25 **oral**)*
 
-- Language Models "Grok" to Copy. **Ang Lv**, Ruobing Xie, Xingwu Sun, Zhanhui Kang, Rui Yan. *Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'25 short).* [Link](https://arxiv.org/pdf/2409.09281)
+- [Language Models "Grok" to Copy](https://aclanthology.org/2025.naacl-short.61/). Ang Lv et al. *Proceedings of the 2025 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'25 short).*
 
-- An Analysis and Mitigation of the Reversal Curse. **Ang Lv\***, Kaiyi Zhang\*, Shufang Xie, Quan Tu, Yuhan Chen, Ji-Rong Wen, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://aclanthology.org/2024.emnlp-main.754/)
+- [An Analysis and Mitigation of the Reversal Curse](https://aclanthology.org/2024.emnlp-main.754/). Ang Lv et al. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).*
 
-- Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules. **Ang Lv\***, Zhuocheng Gong\*, Jian Guan, Junxi Yan, Wei Wu, Huishuai Zhang, Minlie Huang, Dongyan Zhao, Rui Yan. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).* [Link](https://aclanthology.org/2024.emnlp-main.1164/)
+- [Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules](https://aclanthology.org/2024.emnlp-main.1164/). Ang Lv\* and Zhuocheng Gong\* et al. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).*
 
-- Mixture of In-Context Experts Enhance LLMs’ Long Context Awareness. **Ang Lv\***, Hongzhan Lin\*, Yuhan Chen\*, Chen Zhu, Yang Song, Hengshu Zhu, Rui Yan. *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).*
+- [Mixture of In-Context Experts Enhance LLMs’ Long Context Awareness](https://openreview.net/forum?id=RcPHbofiCN). Ang Lv\*, Hongzhan Lin\*, and Yuhan Chen\* et al. *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).*
 
-- Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use. **Ang Lv\***, Yuhan Chen\*, Ting-En Lin, Changyu Chen, Yuchuan Wu, Fei Huang, Yongbin Li, Rui Yan. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).* [Link](https://aclanthology.org/2024.acl-long.601/)
+- [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://aclanthology.org/2024.acl-long.601/). Ang Lv\* and Yuhan Chen\* et al. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).*
 
-- Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning. **Ang Lv\***, Kaiyi Zhang\*, Yuhan Chen, Hansen Ha, Tao Xu, Rui Yan. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL '24 Findings).* [Link](https://aclanthology.org/2024.findings-acl.638/)
+- [Batch-ICL: Effective, Efficient, and Order-Agnostic In-Context Learning](https://aclanthology.org/2024.findings-acl.638/). Ang Lv\* and Kaiyi Zhang\* et al. *Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL '24 Findings).*
 
-- GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework. **Ang Lv**, Xu Tan, Peiling Lu, Wei Ye, Shikun Zhang, Jiang Bian, Rui Yan, *The 34th International Joint Conference on Artificial Intelligence (IJCAI'25).*
+- GETMusic: Generating Music Tracks with a Unified Representation and Diffusion Framework. Ang Lv et al. *The 34th International Joint Conference on Artificial Intelligence (IJCAI'25).*
 
-- Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation. **Ang Lv**, Xu Tan, Tao Qin, Tie-Yan Liu, Rui Yan. *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).* [Link](https://www.ijcai.org/proceedings/2024/0853) 
+- [Re-creation of Creations: A New Paradigm for Lyric-to-Melody Generation](https://www.ijcai.org/proceedings/2024/0853). Ang Lv et al. *The 33th International Joint Conference on Artificial Intelligence (IJCAI'24).*
 
-- DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations. **Ang Lv\***, Jinpeng Li\*, Yuhan Chen, Gao Xing, Ji Zhang, Rui Yan. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).* [Link](https://aclanthology.org/2023.acl-long.70/)
+- [DialoGPS: Dialogue Path Sampling in Continuous Semantic Space for Data Augmentation in Multi-Turn Conversations](https://aclanthology.org/2023.acl-long.70/). Ang Lv et al. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23).*
 
-- Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation. **Ang Lv\***, Jinpeng Li\*, Shufang Xie, Rui Yan. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 **oral**).* [Link](https://aclanthology.org/2023.acl-long.407/)
+- [Envisioning Future from the Past: Hierarchical Duality Learning for Multi-Turn Dialogue Generation](https://aclanthology.org/2023.acl-long.407/). Ang Lv et al. *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL'23 **oral**).*
 
-- Target-Side Input Augmentation for Sequence to Sequence Generation. **Ang Lv\***, Shufang Xie\*, Yingce Xia, Lijun Wu, Tao Qin, Tie-Yan Liu, Rui Yan. *The 10th International Conference on Learning Representations (ICLR'22).* [Link](https://openreview.net/forum?id=pz1euXohm4H)
+- [Target-Side Input Augmentation for Sequence to Sequence Generation](https://openreview.net/forum?id=pz1euXohm4H). Ang Lv\* and Shufang Xie\* et al. *The 10th International Conference on Learning Representations (ICLR'22).*
 
 # Preprint Papers
 
-- More Expressive Attention with Negative Weights. **Ang Lv**, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan. *Arxiv*, [Link](https://arxiv.org/pdf/2411.07176)
+- [The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason](https://arxiv.org/pdf/2505.22653). Ang Lv et al. *Arxiv.*
 
-- Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models. **Ang Lv**, Yuhan Chen, Kaiyi Zhang, Yulong Wang, Lifeng Liu, Ji-Rong Wen, Jian Xie, Rui Yan. *Arxiv.* [Link](https://arxiv.org/abs/2403.19521)
+- [More Expressive Attention with Negative Weights](https://arxiv.org/pdf/2411.07176). Ang Lv et al. *Arxiv.*
 
-- PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration. Songhao Wu\*, **Ang Lv\***, Xiao Feng, Yufei Zhang, Xun Zhang, Guojun Yin, Wei Lin, Rui Yan. *Arxiv* [link](https://www.arxiv.org/pdf/2502.00527)
+- [Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models](https://arxiv.org/pdf/2403.19521). Ang Lv et al. *Arxiv.*
+
+- [PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration](https://www.arxiv.org/pdf/2502.00527). Songhao Wu\* and Ang Lv\* et al. *Arxiv.*
 
 # Honors and Awards
 - CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
