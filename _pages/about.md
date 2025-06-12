@@ -18,7 +18,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 - *Nov 2024*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
-- *Sept 2024 - Jan 2025*: 6 accepted papers at EMNLP, NeurIPS, NAACL, IJCAI, and WWW 2025 oral.
+- *Sept 2024 - May 2025*: 8 accepted papers at EMNLP, NeurIPS, NAACL, IJCAI, WWW 2025 oral and ACL.
 
 - *May 2024*: I am awarded the 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
