@@ -24,7 +24,7 @@ I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelli
 
 # Publications (First Author)
 
-- [Autonomy-of-Experts Models](https://openreview.net/forum?id=8BIDrYWCeg). Ang Lv et al. *Proceedings of the 42nd International Conference on Machine Learning* (ICML'25)
+- [Autonomy-of-Experts Models](https://icml.cc/virtual/2025/poster/46286). Ang Lv et al. *Proceedings of the 42nd International Conference on Machine Learning* (ICML'25)
 
 - [*PEAR*: Position-Embedding-Agnostic Attention Re-weighting Enhances Retrieval-Augmented Generation with Zero Inference Overhead](https://dl.acm.org/doi/10.1145/3696410.3714795). Ang Lv\*, Tao Tan\*, and Yining Qian\* et al. *The Web Conference (WWW'25 **oral**)*
 
