@@ -18,8 +18,6 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 
 - *Nov 2024*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
-- *May 2024*: I am awarded the 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
-
 # Publications (First Author)
 
 - [Autonomy-of-Experts Models](https://icml.cc/virtual/2025/poster/46286). Ang Lv et al. *Proceedings of the 42nd International Conference on Machine Learning* (ICML'25)
@@ -72,4 +70,4 @@ China, 2023 (中国人民大学拔尖创新人才)
 - *2022.09 - 2023.03*, Alibaba Damo Academy, Hangzhou.
 - *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
 - *2023.09 - 2024.05*, Tongyi Lab, Alibaba, Beijing.
-- *2024.05 - now*, Tencent, Beijing.
+- *2024.05 - now*, Tencent, Beijing, mentored by [Ruobing Xie](https://ruobingxie.github.io/)
