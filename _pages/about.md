@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China. I am dedicated to creating more powerful foundation language models.
+I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China. I am dedicated to creating more powerful foundation language models.
 
 # News Within a Year
 
