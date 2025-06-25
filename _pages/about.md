@@ -10,15 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China, supervised by [Prof. Rui Yan](https://scholar.google.com/citations?user=eLw6g-UAAAAJ&hl=en). I am dedicated to creating more powerful foundation language models.
+I am currently a 3rd year Ph.D. student at [Gaoling School of Artificial Intelligence (GSAI)](http://ai.ruc.edu.cn/english/index.htm) in Renmin University of China. I am dedicated to creating more powerful foundation language models.
 
 # News Within a Year
 
 - *May 2025*: [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074) is accepted by ICML 2025.
 
 - *Nov 2024*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
-
-- *Sept 2024 - May 2025*: 8 accepted papers at EMNLP, NeurIPS, NAACL, IJCAI, WWW 2025 oral and ACL.
 
 - *May 2024*: I am awarded the 2024 CCF-Tencent Rhino-Bird Elite Talent Program, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
 
