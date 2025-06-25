@@ -28,8 +28,6 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 
 - [An Analysis and Mitigation of the Reversal Curse](https://aclanthology.org/2024.emnlp-main.754/). Ang Lv et al. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).*
 
-- [Mixture-of-Modules: Reinventing Transformers as Dynamic Assemblies of Modules](https://aclanthology.org/2024.emnlp-main.1164/). Ang Lv\* and Zhuocheng Gong\* et al. *Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP'24).*
-
 - [Mixture of In-Context Experts Enhance LLMs’ Long Context Awareness](https://openreview.net/forum?id=RcPHbofiCN). Ang Lv\*, Hongzhan Lin\*, and Yuhan Chen\* et al. *Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS' 24).*
 
 - [Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use](https://aclanthology.org/2024.acl-long.601/). Ang Lv\* and Yuhan Chen\* et al. *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL'24).*
