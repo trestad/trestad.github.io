@@ -65,7 +65,6 @@ China, 2023 (中国人民大学拔尖创新人才)
 - Journal Reviewer: ACM TIST
 
 # Internships
-- *2022.09 - 2023.03*, Alibaba Damo Academy, Hangzhou.
 - *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
 - *2023.09 - 2024.05*, Tongyi Lab, Alibaba, Beijing.
-- *2024.05 - now*, Tencent, Beijing, mentored by [Ruobing Xie](https://ruobingxie.github.io/)
+- *2024.05 - 2025.07*, Hunyuan, Tencent, mentored by [Ruobing Xie](https://ruobingxie.github.io/)
