@@ -18,6 +18,21 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 
 - *Nov 2024*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
+# Honors and Awards
+- CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
+- CCF-Tencent Rhino-Bird Elite Talent Program, 2024, 1 of 50 selected individuals nationwide（中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人）
+- Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
+China, 2023 (中国人民大学拔尖创新人才)
+
+# Academic Services
+- Conference Reviewer: EMNLP & ACL (ARR Area Chair), ICML, ICLR, WWW, KDD
+- Journal Reviewer: ACM TIST
+
+# Internships
+- *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
+- *2023.09 - 2024.05*, Tongyi Lab, Alibaba, Beijing.
+- *2024.05 - 2025.07*, Hunyuan, Tencent, mentored by [Ruobing Xie](https://ruobingxie.github.io/)
+
 # Publications (First Author)
 
 - [Autonomy-of-Experts Models](https://icml.cc/virtual/2025/poster/46286). Ang Lv et al. *Proceedings of the 42nd International Conference on Machine Learning* (ICML'25)
@@ -53,18 +68,3 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 - [Interpreting Key Mechanisms of Factual Recall in Transformer-Based Language Models](https://arxiv.org/pdf/2403.19521). Ang Lv et al. *Arxiv.*
 
 - [PolarQuant: Leveraging Polar Transformation for Efficient Key Cache Quantization and Decoding Acceleration](https://www.arxiv.org/pdf/2502.00527). Songhao Wu\* and Ang Lv\* et al. *Arxiv.*
-
-# Honors and Awards
-- CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
-- CCF-Tencent Rhino-Bird Elite Talent Program, 2024, 1 of 50 selected individuals nationwide（中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人）
-- Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
-China, 2023 (中国人民大学拔尖创新人才)
-
-# Academic Services
-- Conference Reviewer: EMNLP & ACL (ARR Area Chair), ICML, ICLR, WWW, KDD
-- Journal Reviewer: ACM TIST
-
-# Internships
-- *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
-- *2023.09 - 2024.05*, Tongyi Lab, Alibaba, Beijing.
-- *2024.05 - 2025.07*, Hunyuan, Tencent, mentored by [Ruobing Xie](https://ruobingxie.github.io/)
