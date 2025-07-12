@@ -14,13 +14,16 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 
 # News Within a Year
 
+- *July 2025*: I join ByteDance as a TopSeed Intern.
+
 - *May 2025*: [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074) is accepted by ICML 2025.
 
 - *Nov 2024*: I am awarded the 2024 CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project).
 
 # Honors and Awards
-- CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 1 of 17 selected individuals nationwide（中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人）
-- CCF-Tencent Rhino-Bird Elite Talent Program, 2024, 1 of 50 selected individuals nationwide（中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人）
+
+- CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 2025. 1 of 17 selected individuals nationwide. (中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人)
+- CCF-Tencent Rhino-Bird Elite Talent Program, 2024. 1 of 50 selected individuals nationwide. (中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人)
 - Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
 China, 2023 (中国人民大学拔尖创新人才)
 
@@ -29,9 +32,10 @@ China, 2023 (中国人民大学拔尖创新人才)
 - Journal Reviewer: ACM TIST
 
 # Internships
-- *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which currently boasts 4k stars on GitHub.
-- *2023.09 - 2024.05*, Tongyi Lab, Alibaba, Beijing.
-- *2024.05 - 2025.07*, Hunyuan, Tencent, mentored by [Ruobing Xie](https://ruobingxie.github.io/)
+- *2025.07 - Now*, Seed, ByteDance.
+- *2024.05 - 2025.07*, Hunyuan, Tencent, mentored by [Ruobing Xie](https://ruobingxie.github.io/).
+- *2023.09 - 2024.05*, Tongyi Lab, Alibaba.
+- *2023.03 - 2023.09*, Microsoft Research, [Machine Learning Area](https://www.microsoft.com/en-us/research/group/machine-learning-research-group/), mentored by [Xu Tan](https://scholar.google.co.jp/citations?user=tob-U1oAAAAJ&hl=en). Our collaborative efforts are dedicated to the [Muzic project](https://github.com/microsoft/muzic), which boasts 4k stars on GitHub.
 
 # Publications (First Author)
 
