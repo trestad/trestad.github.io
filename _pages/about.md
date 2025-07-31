@@ -14,6 +14,8 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 
 # News Within a Year
 
+- *July 2025*: Our paper [HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation](https://aclanthology.org/2025.acl-long.1123/) is awarded ACL SAC Highlights (Top 1.5%).
+
 - *July 2025*: I join ByteDance as a TopSeed Intern.
 
 - *May 2025*: [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074) is accepted by ICML 2025.
