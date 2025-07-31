@@ -14,7 +14,7 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 
 # News Within a Year
 
-- *July 2025*: Our paper [HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation](https://aclanthology.org/2025.acl-long.1123/) is awarded ACL SAC Highlights (Top 1.5%).
+- *July 2025*: Our paper [HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation](https://aclanthology.org/2025.acl-long.1123/) is awarded an [ACL 2025 SAC Highlights](https://2025.aclweb.org/program/awards/) (Top 1.5%).
 
 - *July 2025*: I join ByteDance as a TopSeed Intern.
 
@@ -24,6 +24,7 @@ I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intellig
 
 # Honors and Awards
 
+- ACL 2025, SAC Highlights Paper Award (Top 1.5%)
 - CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 2025. 1 of 17 selected individuals nationwide. (中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人)
 - CCF-Tencent Rhino-Bird Elite Talent Program, 2024. 1 of 50 selected individuals nationwide. (中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人)
 - Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
