@@ -10,13 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd year Ph.D. student at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China. I am dedicated to creating more powerful foundation language models.
+I am currently a 4th year Ph.D. student at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China. I am dedicated to creating more powerful foundation language models.
 
 # News Within a Year
 
 - *July 2025*: Our paper [HoPE: A Novel Positional Encoding Without Long-Term Decay for Enhanced Context Awareness and Extrapolation](https://aclanthology.org/2025.acl-long.1123/) is awarded an [ACL 2025 SAC Highlights](https://2025.aclweb.org/program/awards/) (Top 1.5%).
 
-- *July 2025*: I join ByteDance as a TopSeed Intern.
+- *July 2025*: I join ByteDance Seed.
 
 - *May 2025*: [Autonomy-of-Experts Models](https://arxiv.org/pdf/2501.13074) is accepted by ICML 2025.
 
