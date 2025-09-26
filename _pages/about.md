@@ -24,11 +24,11 @@ I am currently a 4th year Ph.D. student at Gaoling School of Artificial Intellig
 
 # Honors and Awards
 
+- National Scholarship for Doctoral Students, 2025
 - ACL 2025, SAC Highlights Paper Award (Top 1.5%)
-- CIE-Tencent Doctoral Student Research Incentive Program (HunYuan Large Language Model Special Project), 2025. 1 of 17 selected individuals nationwide. (中国电子学会-腾讯博士生科研激励计划 混元大模型专项，全国17人)
-- CCF-Tencent Rhino-Bird Elite Talent Program, 2024. 1 of 50 selected individuals nationwide. (中国计算机学会-腾讯犀牛鸟精英人才计划，全国50人)
-- Supported by the Outstanding Innovative Talents Cultivation Funded Programs 2023 of Renmin University of
-China, 2023 (中国人民大学拔尖创新人才)
+- CIE-Tencent Doctoral Student Research Incentive Program, HunYuan Large Language Model Special Project, 2025 (1 of 17 selected individuals nationwide)
+- CCF-Tencent Rhino-Bird Elite Talent Program, 2024 (1 of 50 selected individuals nationwide)
+- Outstanding Innovative Talents Cultivation Funded Programs of Renmin University of China, 2023 & 2024.
 
 # Academic Services
 - Conference Reviewer: EMNLP & ACL (ARR Area Chair), ICML, ICLR, NeurIPS, WWW, KDD
