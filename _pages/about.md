@@ -4,7 +4,7 @@ title: ""
 excerpt: ""
 author_profile: false
 profile_top: true
-profile_intro: "I am currently a 4th year Ph.D. student at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China. I am dedicated to creating more powerful foundation language models."
+profile_intro: "I am currently a Ph.D. student at Gaoling School of Artificial Intelligence (GSAI) in Renmin University of China, expected to graduate in 2027. My research interests lie in foundation model pretraining / architecture / efficiency."
 redirect_from: 
   - /about/
   - /about.html
@@ -13,7 +13,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# News within a Year
+# News
+
+- *Apr 2026*: Three papers accepted to ACL 2026 main: [StepHint](https://aclanthology.org/2026.acl-long.1755/), [Union-of-Experts](https://aclanthology.org/2026.acl-long.1675/) and [Data Pollination](https://aclanthology.org/2026.acl-long.1229/).
 
 - *Jan 2026*: Paper "[ERC loss for MoEs](https://openreview.net/forum?id=MpeyjgWbKt)" accepted to ICLR 2026 <span style="color: #1b7be9ff;">*Oral*</span>.
 
@@ -37,7 +39,7 @@ redirect_from:
 - Outstanding Innovative Talents Cultivation Funded Programs of Renmin University of China, 2023, 2024, 2025.
 
 # Academic Services
-- Conference Reviewer: EMNLP & ACL (ARR Area Chair), ICML, ICLR, NeurIPS
+- Conference Reviewer: EMNLP & ACL (ARR Area Chair), ICML (Gold), ICLR, NeurIPS
 - Journal Reviewer: ACM TIST
 
 # Internships
