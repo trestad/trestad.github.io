@@ -1,0 +1,62 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: $font-text;
+  line-height: 1.55;
+  color: $color-text;
+  background: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+p,
+ol,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: $font-display;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: $color-link;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+  }
+}
+
+::selection {
+  background: rgba(0, 113, 227, 0.18);
+}
+
+.page {
+  width: min(#{$page-width}, calc(100% - 2.5rem));
+  margin: 0 auto;
+  padding-bottom: 4.5rem;
+}

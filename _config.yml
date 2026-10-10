@@ -1,0 +1,30 @@
+title: "Ang Lv"
+description: "Ang Lv (吕昂), Ph.D. student at Gaoling School of Artificial Intelligence, Renmin University of China. Research on foundation model pretraining, architecture and efficiency."
+url: "https://trestad.github.io"
+
+author:
+  name: "Ang Lv (吕 昂)"
+  # Landscape photo behind the intro. Positions set which part survives cropping.
+  cover: "/images/cover.jpg"
+  cover_position: "45% 45%"
+  cover_position_mobile: "42% 40%"
+  email: "lv.ang@bytedance.com"
+  github: "trestad"
+  googlescholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=O3bX_LMAAAAJ"
+
+timezone: Asia/Shanghai
+markdown: kramdown
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
